@@ -1,0 +1,14 @@
+{
+  "name": "app.js",
+  "version": "2.0.0",
+  "description": "express js intoducrion",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nidhin",
+  "license": "ISC",
+  "dependencies": {
+    "expres": "^0.0.5"
+  }
+}
